@@ -1,0 +1,19 @@
+{
+  "name": "crud-users.api",
+  "version": "1.0.0",
+  "description": "Esta API REST em Node.js é uma aplicação JavaScript que fornece funcionalidade CRUD de usuário. Ela é construída usando JavaScript puro, sem o uso de Nest.js ou TypeScript. Com esta API, é possível criar, ler, atualizar e deletar usuários em um banco de dados de sua escolha",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lincon-programmer/crud-users.api.git"
+  },
+  "author": "Lincon Venicios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lincon-programmer/crud-users.api/issues"
+  },
+  "homepage": "https://github.com/lincon-programmer/crud-users.api#readme"
+}
